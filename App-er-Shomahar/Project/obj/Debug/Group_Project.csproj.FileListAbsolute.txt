@@ -1,0 +1,428 @@
+C:\Users\HP\source\repos\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\HP\source\repos\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+C:\Users\HP\source\repos\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\HP\source\repos\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+D:\6th Semester\Group_Project\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+D:\6th Semester\Group_Project\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+D:\6th Semester\Group_Project\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+D:\6th Semester\Group_Project\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+D:\Group_Project1\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+C:\Users\mirfa\Downloads\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+D:\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+D:\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+D:\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+D:\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+D:\project\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+D:\project\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+D:\project\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+D:\project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form11.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form12.resources
+C:\Users\HP\Downloads\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form13.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\bin\Debug\Interop.WMPLib.dll
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\bin\Debug\AxInterop.WMPLib.dll
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Interop.WMPLib.dll
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\AxInterop.WMPLib.dll
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.ResolveComReference.cache
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form11.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form12.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form13.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form14.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+D:\Fproject\Project\project\Group_Project1\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.ResolveComReference.cache
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form11.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form12.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form13.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form14.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\bin\Debug\taglib-sharp.dll
+C:\Users\HP\Downloads\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CopyComplete
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Interop.WMPLib.dll
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\AxInterop.WMPLib.dll
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Interop.WMPLib.dll
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\AxInterop.WMPLib.dll
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.ResolveComReference.cache
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form11.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form12.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form13.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form14.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CopyComplete
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+D:\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Interop.WMPLib.dll
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\AxInterop.WMPLib.dll
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Interop.WMPLib.dll
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\AxInterop.WMPLib.dll
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.ResolveComReference.cache
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form11.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form12.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form13.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form14.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CopyComplete
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+F:\C#\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.ResolveComReference.cache
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form11.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form12.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form13.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form14.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CopyComplete
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\mirfa\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.ResolveComReference.cache
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form11.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form12.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form13.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form14.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CopyComplete
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form15.resources
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form16.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\Interop.WMPLib.dll
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\bin\Debug\AxInterop.WMPLib.dll
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Interop.WMPLib.dll
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\AxInterop.WMPLib.dll
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.ResolveComReference.cache
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form11.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form12.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form13.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form14.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form15.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form16.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CopyComplete
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+F:\C#\Project\Gpro (1)\Gpro\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\bin\Debug\Group_Project.exe.config
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\bin\Debug\Group_Project.exe
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\bin\Debug\Group_Project.pdb
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.ResolveComReference.cache
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form1.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form10.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form11.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form12.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form13.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form14.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form15.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form16.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form2.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form3.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form4.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form5.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form6.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form7.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form8.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Form9.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Properties.Resources.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.Resources.Resource1.resources
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.csproj.CopyComplete
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.exe
+C:\Users\mirfa\Documents\C# Group-1 Project (H)\Group_Project\Group_Project\obj\Debug\Group_Project.pdb
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\bin\Debug\Group_Project.exe.config
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\bin\Debug\Group_Project.exe
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\bin\Debug\Group_Project.pdb
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\bin\Debug\Interop.WMPLib.dll
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\bin\Debug\AxInterop.WMPLib.dll
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.csproj.AssemblyReference.cache
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Interop.WMPLib.dll
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\AxInterop.WMPLib.dll
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.csproj.ResolveComReference.cache
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form1.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form10.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form11.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form12.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form13.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form14.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form15.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form16.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form2.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form3.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form4.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form5.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form6.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form7.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form8.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Form9.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Properties.Resources.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.Resources.Resource1.resources
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.csproj.GenerateResource.cache
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.csproj.CoreCompileInputs.cache
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.csproj.CopyComplete
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.exe
+F:\code\.Net_core\App er Shomahar\App-er-Shomahar\Project\obj\Debug\Group_Project.pdb
